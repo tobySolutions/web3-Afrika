@@ -53,5 +53,8 @@ N.b: Miners help get the transactions from clients into blocks that can then be 
 ### Public, Consortium and Fully Private Blockchains
 
 
+## Cryptograhic Hash Function
+
+You can generate a cryptic hash for with a crypograhic hash function.
 
 
