@@ -1,5 +1,9 @@
 # Day 1: Blockchain Introduction and Conceptualization
 
+## Resources
+
+Slides for day 1: https://docs.google.com/presentation/d/1LgBPImv-qvaxk6WwUffEDoeoN9oRcU-_/edit#slide=id.p1
+
 ## Content
 
 - Review of Blockchain Technology
